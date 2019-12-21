@@ -1,6 +1,6 @@
 # return_F_ML_winter19
 <br>
-post.py : script to perform automatic post on facebook.
+fbauto.py : script to perform automatic post and birthday wish on facebook
 <br>
 file1.py: script for automated login in Facebook and Gmail<br>
 This script asks user for their email & password and logs into the desired platform. The password is for one time use only and not stored.
