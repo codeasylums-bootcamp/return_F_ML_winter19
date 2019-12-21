@@ -71,7 +71,7 @@ elif(n==2):
 	  
 	wish = 'Happy Birthday !'
 	  
-	element = driver.find_elements_by_xpath("//*[@id='u_0_11']") 
+	element = driver.find_elements_by_xpath("//*[@class ='enter_submit uiTextareaNoResize uiTextareaAutogrow uiStreamInlineTextarea inlineReplyTextArea mentionsTextarea textInput']") 
 	  
 	cnt = 0
 	  
